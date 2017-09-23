@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CEG Hostels</string>
+    <string name="error">Invalid Username or Password!</string>
+    <string-array name="preference">
+        <item>Veg</item>
+        <item>Non Veg</item>
+    </string-array>
+
+    <string-array name="week">
+        <item>""</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>""</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+
+    <string-array name="food">
+        <item>""</item>
+        <item>Briyani</item>
+        <item>Parotta</item>
+        <item>Chappathi</item>
+        <item>Fried rice</item>
+        <item>Pongal</item>
+        <item>Idli</item>
+        <item>Dosai</item>
+        <item>Poori</item>
+        <item>Bread and Butter</item>
+        <item>Rice with Gravey</item>
+    </string-array>
+
+    <string name="error2">Error with Email or Password!</string>
+    <string name="success">Successfully registered!</string>
+</resources>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\55076c093f7468a56be2c77aefc5d051ce9ef238\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_5d32401969f9c662a9079707b8da0d851e50718f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dcf79449151e175d692f630e5ca86951d0e1b71a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4d10595a6f9203a5667ceb986cf0c25e32664dbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\6930ebd4806ec9859fd8667b5ca78d5ff08e5b14\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ca22e262d4536fcddd2069fe63c1f39e7b35efc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\55076c093f7468a56be2c77aefc5d051ce9ef238\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d32401969f9c662a9079707b8da0d851e50718f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\6930ebd4806ec9859fd8667b5ca78d5ff08e5b14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_9ca22e262d4536fcddd2069fe63c1f39e7b35efc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_dcf79449151e175d692f630e5ca86951d0e1b71a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\8032e3873fa50ee9f5482a5646140bb8e992fc28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_fab5b22333317b40b1f15b58566cad4eacfcc4ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\0b4e908a4db317568f53faaada78121b3780bc7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_17f830e2dcd7b44a2ce4d723323726bbb6c9fe23.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\085110b7f4d88fd870c3217ed3a099be92b8f1f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46770b16981270407f777d8f0d9f3f10392ab72d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="20a212211b7d942f220467c0c5cd08986151a600">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_05b019b3c4dd95d9e4e57d07d314707f3ed87595\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\aacf169464d24c0f20fda882af30c4bd4436ea5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_02bc7a00ac65d8385518a2ed5c573ff87add6771.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\8032e3873fa50ee9f5482a5646140bb8e992fc28\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fab5b22333317b40b1f15b58566cad4eacfcc4ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\6c5ec75036c687055ba3fb850189e1f5c1a987ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61c712ec682391f37d2bb622207068b08ef554c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\6c5ec75036c687055ba3fb850189e1f5c1a987ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_61c712ec682391f37d2bb622207068b08ef554c8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\148bf9b178649a01c941ae073b84b68a3c3ecbf0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3438630f7198a4bbca2a2754288efbd51d848290\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\b9dd43d89088211cbdaee5c2d544457e66e96e7c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20eabe186fb136f06b36711ba139251cf8611766\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\085110b7f4d88fd870c3217ed3a099be92b8f1f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_46770b16981270407f777d8f0d9f3f10392ab72d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\aacf169464d24c0f20fda882af30c4bd4436ea5e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02bc7a00ac65d8385518a2ed5c573ff87add6771\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\b9dd43d89088211cbdaee5c2d544457e66e96e7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_20eabe186fb136f06b36711ba139251cf8611766.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\0b4e908a4db317568f53faaada78121b3780bc7c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17f830e2dcd7b44a2ce4d723323726bbb6c9fe23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\3df306b4be119ce5f027a82a6a794d8dfc3c3239\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eafd0455dbbe7bcbf13ea93c4b2c8a2a42ff012a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\69af5c1ea4c77528c8a0b3c9d0b9229a8be0f236\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de2597dc501070eeb1991eab918e3b14874ec10b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\3df306b4be119ce5f027a82a6a794d8dfc3c3239\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_eafd0455dbbe7bcbf13ea93c4b2c8a2a42ff012a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\69af5c1ea4c77528c8a0b3c9d0b9229a8be0f236\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_de2597dc501070eeb1991eab918e3b14874ec10b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\148bf9b178649a01c941ae073b84b68a3c3ecbf0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_3438630f7198a4bbca2a2754288efbd51d848290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\44c0f0fb1c7a6393389566b7b6f6409c8bc00e24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_b86d1be53e1e99a4a402c96f73951c69c52dfca1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\ae70a4bff06eb80252b6c2edff2d70f6ac2f7e48\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f9949fd33ac901fe7227e8e53db5e1d860550f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\43ed08b87e8bf75b52e16cccfb56a000f4a2999d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_917521d293147acfb749cbd56948114911a51fca\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\c3530e1f36920b906ec975c8ceb1ec0d3e6ed6d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_2e2d01ab9a0990e1a94cd84feb5af4096df8ab5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\ae70a4bff06eb80252b6c2edff2d70f6ac2f7e48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_7f9949fd33ac901fe7227e8e53db5e1d860550f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\c3530e1f36920b906ec975c8ceb1ec0d3e6ed6d5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e2d01ab9a0990e1a94cd84feb5af4096df8ab5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\43ed08b87e8bf75b52e16cccfb56a000f4a2999d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_917521d293147acfb749cbd56948114911a51fca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\44c0f0fb1c7a6393389566b7b6f6409c8bc00e24\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b86d1be53e1e99a4a402c96f73951c69c52dfca1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\9a200c1a0c55a1bcb943c2653e5a007db1996cd0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17d5b40f41d9730fb57fd659bebedb3a6a428487\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_413858db5d8000816337ecbd42f8167e302a73e3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_413858db5d8000816337ecbd42f8167e302a73e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\7a6b8832c9e1a1f1b4af9c3eaedfb6f92e8bc00d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_5f6b84a0b5d5ea4436f2d909aeec8bf632c4fead.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\0519f715d262abae41370ec58d0fd13bf8bfb920\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6fced63269ca5a28d0d360b0f3a591fefdd46bf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\91a93e1345824c84b307110eb87ad1393ec9fc62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb2bdebb32f2f1f0b7922f03640a17f27d3e3eb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\7a6b8832c9e1a1f1b4af9c3eaedfb6f92e8bc00d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f6b84a0b5d5ea4436f2d909aeec8bf632c4fead\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\0519f715d262abae41370ec58d0fd13bf8bfb920\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_6fced63269ca5a28d0d360b0f3a591fefdd46bf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\b4821e5d3cf40dc8b49f740987ff79f8f299ae2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_e99f559af36631fb87ab1b5c7b284e38879d91aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\9a200c1a0c55a1bcb943c2653e5a007db1996cd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_17d5b40f41d9730fb57fd659bebedb3a6a428487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\91a93e1345824c84b307110eb87ad1393ec9fc62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\pre-dexed\debug\classes_eb2bdebb32f2f1f0b7922f03640a17f27d3e3eb5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\preshu\.android\build-cache\b4821e5d3cf40dc8b49f740987ff79f8f299ae2d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="S:\Education\Android\My_projects\CEGHostel\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e99f559af36631fb87ab1b5c7b284e38879d91aa\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "314306986987",
+    "firebase_url": "https://ceghostel-990e2.firebaseio.com",
+    "project_id": "ceghostel-990e2",
+    "storage_bucket": "ceghostel-990e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314306986987:android:3c976956b7b80f5e",
+        "android_client_info": {
+          "package_name": "com.tootcat.ceghostel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314306986987-bn2ic7vgooilhbdafvo4l2o7u76t448h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tootcat.ceghostel",
+            "certificate_hash": "1c06ac514fd62b6ae8d1a557c3f2c95677a20b1a"
+          }
+        },
+        {
+          "client_id": "314306986987-jgu9vcoqhtj94tm9prs9vm50iahbho7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB60Sn1QfUq9vz_CYv0rlmv8qcLtvIOom8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314306986987-jgu9vcoqhtj94tm9prs9vm50iahbho7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
